@@ -7,6 +7,8 @@ The best source for death statistics in Brazil is SIM - Mortality Information Sy
 
 The datasets presented here are intended to organize data on total deaths in 2020, organized by date and epidemiological week, as well as grouped by sex and age groups.
 
+If you want data that shows deaths by cause, you should use the original datasets from @capyvara.
+
 ## Datasets.
 
 ### df_deaths.csv
